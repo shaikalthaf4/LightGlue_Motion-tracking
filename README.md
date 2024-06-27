@@ -1,5 +1,5 @@
 
-# Robust Tracking of Displacement of ROI in Videos using LightGlue and SuperPoint DL Models
+# Robust Tracking of Displacement of a ROI in Videos using LightGlue and SuperPoint DL model
 
 ![Tracker](tracker.png)
 
